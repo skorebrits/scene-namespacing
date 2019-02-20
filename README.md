@@ -3,7 +3,7 @@ Proof of Concept on Naming Scenes.
 
 ## 2 Options
 - Enum based
-- Framework based
+- Module based via Framework
 
 ```swift
 import SceneC
